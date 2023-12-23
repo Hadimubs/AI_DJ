@@ -1,0 +1,49 @@
+body{
+background-size: cover;
+}
+.heading{
+font-size:23px;
+width: 100%;
+margin:0px;
+}
+#n{
+font-size: 15px;
+color:black;
+}
+
+#sp{
+float:left;
+}
+#disk{
+width:250px;
+border-radius: 100px;
+}
+#s{
+font-size: 23px;
+margin:15px;
+}
+
+
+
+#vol{
+    float:right;
+    }
+    #dis{
+    width:250px;
+    border-radius: 100px;
+    }
+    #v{
+    font-size: 23px;
+    margin:15px;
+    }
+
+    .p{
+ width:130px;
+font-size: 25px;
+
+    }
+
+canvas{
+border:5px solid whitesmoke;
+border-radius: 20px;
+}
